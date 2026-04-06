@@ -60,7 +60,7 @@ The goal was to answer key business questions around revenue trends, rider reten
 
 ## 📄 Report
 The full business analysis report is available here:
-📎 `reports/HNG_Ride_Business_Analysis_Report.pdf`
+📎 `reports/HNG_Ride_Business_Analysis_Report.pdf`![Report](reports/HNG_Ride_Business_Analysis_Report.pdf)
 
 ---
 
